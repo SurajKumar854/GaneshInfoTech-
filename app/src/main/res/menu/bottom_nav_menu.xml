@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/feed"
+        android:icon="@drawable/feed_24"
+        android:title="Feed" />
+    <item
+        android:id="@+id/company"
+        android:icon="@drawable/company_24"
+        android:title="Company" />
+    <item
+        android:id="@+id/jobs"
+        android:icon="@drawable/jobs"
+        android:title="Jobs"
+        android:visible="true" />
+    <item
+        android:id="@+id/projects"
+
+        android:icon="@drawable/projects"
+        android:title="Projects" />
+    <item
+        android:id="@+id/forums"
+        android:icon="@drawable/forums"
+        android:title="Forum" />
+
+</menu>

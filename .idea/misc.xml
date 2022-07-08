@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/drawable/buttonshape.xml" value="0.241" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/drawable/buttonshape2.xml" value="0.2445" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/drawable/buttonshape3.xml" value="0.2445" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2445" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/drawable/profile_background.xml" value="0.241" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/drawable/progressbar.xml" value="0.2435" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/feed_actionbar.xml" value="0.6" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/fragment_companies.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/fragment_feeds.xml" value="0.4456066945606695" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/fragment_first.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/fragment_forum.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/fragment_jobs.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/layout/fragment_maps.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/Tanish Kumar/AndroidStudioProjects/GaneshWebInfoTech/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
